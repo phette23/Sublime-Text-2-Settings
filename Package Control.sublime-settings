@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": 1334671264,
+	"installed_packages":
+	[
+		"DetectSyntax",
+		"Git",
+		"jQuery",
+		"JSHint",
+		"JsMinifier",
+		"Package Control",
+		"Prefixr",
+		"ZenCoding"
+	]
+}
