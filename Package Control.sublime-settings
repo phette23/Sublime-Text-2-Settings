@@ -1,7 +1,8 @@
 {
-	"auto_upgrade_last_run": 1334671264,
+	"auto_upgrade_last_run": 1336102732,
 	"installed_packages":
 	[
+		"ApacheConf.tmLanguage",
 		"DetectSyntax",
 		"Git",
 		"jQuery",
@@ -9,6 +10,7 @@
 		"JsMinifier",
 		"Package Control",
 		"Prefixr",
+		"Sublime-JSHint",
 		"ZenCoding"
 	]
 }
