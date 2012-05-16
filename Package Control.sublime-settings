@@ -1,11 +1,15 @@
 {
-	"auto_upgrade_last_run": 1336774436,
+	"auto_upgrade_last_run": 1337122474,
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
+		"ColorPicker",
 		"DetectSyntax",
+		"DocBlockr",
+		"Gist",
 		"Git",
 		"jQuery",
+		"JsFormat",
 		"JSHint",
 		"JsMinifier",
 		"Package Control",
