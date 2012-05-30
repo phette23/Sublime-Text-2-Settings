@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1337122474,
+	"auto_upgrade_last_run": 1338300777,
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
@@ -12,6 +12,7 @@
 		"JsFormat",
 		"JSHint",
 		"JsMinifier",
+		"Markdown Preview",
 		"Package Control",
 		"Prefixr",
 		"Sublime-JSHint",
