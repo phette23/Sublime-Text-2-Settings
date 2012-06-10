@@ -1,6 +1,11 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 18.0,
+	"font_size": 21.0,
+    "fade_fold_buttons": false,
+    "margin": 2,
+    "tab_size": 4, // 4 is the default but this is here just as a reminder
+    "translate_tabs_to_spaces": true,
+    "draw_minimap_border": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -9,5 +14,7 @@
 	"open_files_in_new_window": false,
 	"spell_check": true,
 	"trim_trailing_white_space_on_save": true,
+    "ensure_newline_at_eof_on_save": true,
+    "fallback_encoding": "UTF-8",
 	"word_wrap": true
 }
