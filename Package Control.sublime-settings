@@ -1,21 +1,17 @@
 {
-	"auto_upgrade_last_run": 1342482209,
+	"auto_upgrade_last_run": 1343575999,
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
 		"ColorPicker",
-		"DetectSyntax",
 		"DocBlockr",
 		"Gist",
 		"Git",
 		"jQuery",
-		"JsFormat",
-		"JSHint",
 		"JsMinifier",
 		"Markdown Preview",
 		"Package Control",
 		"Prefixr",
-		"sublime-closure-linter",
 		"Sublime-JSHint",
 		"Tag",
 		"ZenCoding"
