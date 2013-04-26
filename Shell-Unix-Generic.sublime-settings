@@ -1,0 +1,16 @@
+{
+	"extensions":
+	[
+		".aliases",
+		".gitconfig",
+		".exports",
+		".extra",
+		".gitignore",
+		".hgignore",
+		".inputrc",
+		".path",
+		".screenrc",
+		".wgetrc",
+		".functions"
+	]
+}
