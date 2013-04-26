@@ -1,24 +1,31 @@
 {
-	"auto_upgrade_last_run": 1352569977,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
+		"Bower",
 		"ColorPicker",
 		"DetectSyntax",
 		"DocBlockr",
 		"Emmet",
 		"Gist",
 		"Git",
+		"GitGutter",
+		"HTML5",
+		"INI",
 		"jQuery",
 		"JsFormat",
 		"JSHint",
 		"JsMinifier",
 		"JsRun",
+		"MacTerminal",
 		"Markdown Preview",
 		"Package Control",
 		"Prefixr",
+		"Sass",
 		"sublime-closure-linter",
 		"Sublime-JSHint",
-		"Tag"
+		"Tag",
+		"Web Inspector"
 	]
 }
