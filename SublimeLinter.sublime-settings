@@ -2,6 +2,9 @@
     "pep8_ignore":
     [
         "E201",
-        "E501"
-    ]
+        "E501",
+        "E302",
+        "E202"
+    ],
+    "sublimelinter": "load-save"
 }
