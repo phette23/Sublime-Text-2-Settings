@@ -1,3 +1,4 @@
 Default (Linux).sublime-keymap
 .DS_Store
-HTML.tmLanguage.cache
+*.cache
+*.system-ca-bundle
