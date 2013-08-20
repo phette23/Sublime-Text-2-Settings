@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<p><iframe src="http://api.libguides.com/api_box.php?iid=292&amp;bid=${1:boxID}" width="$2" height="$3"></iframe></p>
+<h2>Embed Code:</h2>
+<p><input value="&lt;iframe src=&quot;http://api.libguides.com/api_box.php?iid=292&amp;bid=${1:boxID}&quot;&gt;&lt;/iframe&gt;" onclick="this.select()" type="text" size="100%" /></p>
+]]></content>
+    <tabTrigger>lgb</tabTrigger>
+    <scope>text.html</scope>
+</snippet>
