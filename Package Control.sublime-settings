@@ -3,6 +3,8 @@
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
+		"Auto Semi-Colon",
+		"Autoprefixer",
 		"Bower",
 		"ColorPicker",
 		"DetectSyntax",
@@ -23,9 +25,11 @@
 		"Package Control",
 		"Prefixr",
 		"Sass",
+		"SideBarEnhancements",
 		"sublime-closure-linter",
 		"Sublime-JSHint",
 		"Tag",
+		"Theme - Soda",
 		"Web Inspector"
 	]
 }
