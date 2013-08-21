@@ -10,7 +10,6 @@
 		"DetectSyntax",
 		"DocBlockr",
 		"Emmet",
-		"Gist",
 		"Git",
 		"GitGutter",
 		"HTML5",
@@ -23,13 +22,11 @@
 		"MacTerminal",
 		"Markdown Preview",
 		"Package Control",
-		"Prefixr",
 		"Sass",
 		"SideBarEnhancements",
 		"sublime-closure-linter",
 		"Sublime-JSHint",
 		"Tag",
-		"Theme - Soda",
 		"Web Inspector"
 	]
 }
