@@ -2,3 +2,4 @@ Default (Linux).sublime-keymap
 .DS_Store
 *.cache
 *.system-ca-bundle
+Package Control.last-run
