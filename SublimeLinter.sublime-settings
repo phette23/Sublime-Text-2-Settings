@@ -4,7 +4,8 @@
         "E201",
         "E501",
         "E302",
-        "E202"
+        "E202",
+        "E111"
     ],
     "sublimelinter": "load-save"
 }
