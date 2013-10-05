@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[<sup><a href="#$1fn$2" id="$1note$2">[$2]</a></sup>$0]]></content>
+    <content><![CDATA[<sup><a href="#fn$1$2" id="note$1$2">[$1]</a></sup>$0]]></content>
     <tabTrigger>note</tabTrigger>
     <scope>text.html.markdown.multimarkdown, text.html.markdown</scope>
     <description>In-Text Footnote</description>
